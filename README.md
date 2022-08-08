@@ -1,1 +1,2 @@
-# Deep-Learning (딥러닝)+지도학습
+# Deep-Learning (딥러닝)
+#라이브러리
