@@ -1,1 +1,1 @@
-# Deep-Learning -복습-
+# Deep-Learning (딥러닝)
